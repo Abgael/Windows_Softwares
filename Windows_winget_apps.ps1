@@ -1,0 +1,12 @@
+winget install -e --id Microsoft.WindowsTerminal
+winget install -e --id Microsoft.OpenJDK.11
+winget install -e --id Python.Python.3
+winget install -e --id Mozilla.FirefoxESR
+winget install -e --id Adobe.AdobeAcrobatReaderDC
+winget install -e --id Discord.Discord
+winget install -e --id Spotify.Spotify
+winget install -e --id qBittorrent.qBittorrent
+winget install -e --id Valve.Steam
+winget install -e --id Microsoft.SQLServerManagementStudio
+winget install -e --id Oracle.MySQL
+winget install -e --id Microsoft.VisualStudioCode
